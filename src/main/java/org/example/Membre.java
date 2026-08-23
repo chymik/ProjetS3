@@ -19,6 +19,6 @@ public class Membre {
 
     @Override
     public String toString() {
-        return "Nom: " + nom + "; Metier: " + metier;
+        return "Nom: " + nom + ", Metier: " + metier;
     }
 }
